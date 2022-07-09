@@ -7,7 +7,7 @@
       "name": "Maurine Berge",
       "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/440.jpg",
       "channel": "Berge"
-    },
+              },
     "date": "2019-07-31T08:27:07.862Z",
     "title": "Reverse-engineered reciprocal attitude mesh turn-key web services",
     "description": "enetur vero totam sapiente. Neque repellendus et pariatur neque. Aperiam excepturi nesciunt. Nihil amet tenetur. Ut sit veritatis quia a excepturi cumque iusto.\nNihil minima nam voluptate enim error ",
@@ -28,34 +28,6 @@
         "thumbnail": "https://loremflickr.com/300/300/food46"
       }
     ]
-  },
-  {
-    "id": 1,
-    "author": {
-      "id": 16,
-      "name": "Clement Jacobs",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/324.jpg",
-      "channel": "Jacobs"
-    },
-    "date": "2018-04-06T22:46:09.996Z",
-    "title": "Polarised directional Graphical User Interface cultivate revolutionary vortals",
-    "description": "elit quaerat qui in est ut exercitationem. Perferendis itaque vel possimus culpa a. Dolore cum ut deserunt qui dolor sunt ipsa laborum saepe.\nAmet quia ea omnis laborum dicta quis ut alias tenetur. N",
-    "thumbnail": [
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food24"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food83"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food97"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food92"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food46"
-      }
-    ]
   }
- }
+  ]
+}
