@@ -1,31 +1,31 @@
-
-  "data":[
-  {
-    "id": 0,
-    "author": {
-      "id": 74,
-      "name": "Maurine Berge",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/440.jpg",
-      "channel": "Berge"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
     },
-    "date": "2019-07-31T08:27:07.862Z",
-    "title": "Reverse-engineered reciprocal attitude mesh turn-key web services",
-    "description": "enetur vero totam sapiente. Neque repellendus et pariatur neque. Aperiam excepturi nesciunt. Nihil amet tenetur. Ut sit veritatis quia a excepturi cumque iusto.\nNihil minima nam voluptate enim error ",
-    "thumbnail": [
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food24"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food83"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food97"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food92"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food46"
-      }
-    ]
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
