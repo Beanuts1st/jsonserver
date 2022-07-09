@@ -260,35 +260,6 @@
         "thumbnail": "https://loremflickr.com/300/300/food46"
       }
     ]
-  },
-  {
-    "id": 9,
-    "author": {
-      "id": 63,
-      "name": "Raoul Toy",
-      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/951.jpg",
-      "channel": "Toy"
-    },
-    "date": "2018-08-20T19:05:42.255Z",
-    "title": "Profit-focused solution-oriented implementation deliver sticky communities",
-    "description": "unt quos placeat ratione. Fuga eius quasi ut quod. Enim sed consequatur soluta labore reiciendis suscipit. Perferendis laboriosam neque recusandae. Tempora ut iste similique quis. Voluptas sunt labor",
-    "thumbnail": [
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food24"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food83"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food97"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food92"
-      },
-      {
-        "thumbnail": "https://loremflickr.com/300/300/food46"
-      }
-    ]
   }
   ]
 }
